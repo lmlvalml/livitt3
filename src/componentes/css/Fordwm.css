@@ -1,0 +1,33 @@
+.box{
+    background: #1515;
+    background-position: center bottom;
+    background-size: 500px 500px;
+    max-width: 800px ;
+    max-height: 800px;
+    align-items: center;
+   justify-content: center;
+   display: flex;
+}
+.h3{
+    text-align: center;
+}
+
+button.button{
+ 
+    color: black;
+    margin: 30px;
+    border: solid 3 px black;
+    height: 70px;
+    width : 50px;
+    max-width: 600px;
+   
+  
+}
+
+.sig{
+
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}

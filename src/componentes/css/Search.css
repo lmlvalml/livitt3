@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    text-align:butt;
+    position: fixed;
+    top: 200px;
+    right: 100px;
+    
+}
+.box{
+    background-color: aqua;
+    height: 300px ;
+    width: 800px;
+   
+}
